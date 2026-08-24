@@ -110,7 +110,6 @@ Tracked across 6 MLflow experiments. Best configuration: `n_estimators=200, max_
 
 ## API
 
-The API is live at https://turbofan-rul-app.azurewebsites.net/docs
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
