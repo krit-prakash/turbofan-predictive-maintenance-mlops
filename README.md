@@ -12,7 +12,7 @@
 
 Predicts the Remaining Useful Life (RUL) of aircraft engines using the NASA CMAPSS dataset. The goal was to go beyond just building a model — the entire workflow is production-ready, from PySpark preprocessing to a Dockerized API running on Azure with automated CI/CD.
 
-Live API: https://turbofan-rul-app.azurewebsites.net/docs
+
 
 ---
 
