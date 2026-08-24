@@ -161,4 +161,4 @@ Source: [NASA Prognostics Data Repository](https://www.nasa.gov/content/prognost
 
 Krit Prakash
 - LinkedIn: https://www.linkedin.com/in/krit-prakash-9a32a1246/
-- GitHub: https://github.com/lightonly1
+- GitHub: https://github.com/krit-prakash
